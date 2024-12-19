@@ -1,6 +1,6 @@
 1. Import Statements
 python
- 
+
 from flask import Flask, request, render_template, session, redirect, url_for, flash
 import smtplib
 from email.mime.text import MIMEText
